@@ -56,3 +56,5 @@ node_modules
 
 # JetBrains garbage
 .idea/
+
+/**/.DS_Store
